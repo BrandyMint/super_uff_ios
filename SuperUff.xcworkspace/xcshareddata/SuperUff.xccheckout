@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29D15B14-F6EE-4798-9AF4-C29F40894550</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SuperUff</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA35CD95-5F0F-44DA-8B5E-2724AC47A951</key>
+		<string>https://github.com/BrandyMint/super_uff_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SuperUff.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA35CD95-5F0F-44DA-8B5E-2724AC47A951</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/BrandyMint/super_uff_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA35CD95-5F0F-44DA-8B5E-2724AC47A951</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA35CD95-5F0F-44DA-8B5E-2724AC47A951</string>
+			<key>IDESourceControlWCCName</key>
+			<string>super_uff_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+PODS:
+  - EAIntroView (2.6.1)
+  - SMPageControl (1.2)
+
+DEPENDENCIES:
+  - EAIntroView (~> 2.6.0)
+  - SMPageControl
+
+SPEC CHECKSUMS:
+  EAIntroView: 809dc4c9e8006390340c33346870e7b7bb52fe02
+  SMPageControl: 506b0c561d3ddbe2d5df28cb33acc8e4b1f93f19
+
+COCOAPODS: 0.33.1
